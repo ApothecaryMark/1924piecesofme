@@ -50,6 +50,7 @@ prose:
     - /assets
     - /css
     - /categories
+    - CNAME
     - sitemap.xml
     - feed.xml
     - readme.html
