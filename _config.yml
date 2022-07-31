@@ -41,10 +41,15 @@ prose:
     - /_layouts
     - /_includes
     - /_sass
+    - /_data
+    - /categories
     - sitemap.xml
     - feed.xml
     - readme.html
     - README.md
+    - .gitignore
+    - index.html
+    - robots.txt
     
 
 # Build settings
