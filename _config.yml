@@ -39,13 +39,14 @@ prose:
   media: "img"
   ignore:
     - /_sass
+    - /_data
+    - /_includes
     - /categories
     - sitemap.xml
     - feed.xml
     - readme.html
     - README.md
     - .gitignore
-    - index.html
     - robots.txt
     - 404.html
     
