@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Me
-description: Have questions? I have answers.
+subtitle: Questions?
 form: true
 published: true
 ---
