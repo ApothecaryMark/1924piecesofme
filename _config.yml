@@ -39,7 +39,6 @@ prose:
   media: "img"
   ignore:
     - /_sass
-    - /_data
     - /categories
     - sitemap.xml
     - feed.xml
