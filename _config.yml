@@ -42,7 +42,9 @@ prose:
     - /_includes
     - /_sass
     - sitemap.xml
+    - feed.xml
     - readme.html
+    - README.md
     
 
 # Build settings
