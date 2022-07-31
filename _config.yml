@@ -40,7 +40,6 @@ prose:
   ignore:
     - /_sass
     - /_data
-    - /_includes
     - /categories
     - sitemap.xml
     - feed.xml
