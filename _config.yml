@@ -27,6 +27,15 @@ exclude: ["README.md", "README.html"]
 
 prose:
   metadata:
+    - name: "subtitle"
+        field:
+          element: "text"
+          label: "subtitle"
+    - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: true
     _posts:
       - name: "title"
         field:
