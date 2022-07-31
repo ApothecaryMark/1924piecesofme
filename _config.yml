@@ -36,12 +36,11 @@ prose:
           element: "checkbox"
           label: "Published"
           value: false
-    ignore:
-    	- /_layout
-        - /_includes
-        - /_sass
-        - .gitignore
-        - readme.html
+  ignore:
+    - /_layouts
+    - /_includes
+    - /_sass
+    
 
 # Build settings
 highlighter: null
