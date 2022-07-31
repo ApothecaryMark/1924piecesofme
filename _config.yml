@@ -35,7 +35,7 @@ prose:
         field:
           element: "checkbox"
           label: "Published"
-          value: false
+          value: true
   media: "img"
   ignore:
     - /_sass
