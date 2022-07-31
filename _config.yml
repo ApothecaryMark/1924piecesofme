@@ -37,6 +37,8 @@ prose:
           label: "Published"
           value: false
   media: "img"
+  # REMOVE THIS LINE TO EDIT THE CONFIG
+  rooturl: "_posts"
   ignore:
     - /_sass
     - /_data
