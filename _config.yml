@@ -36,6 +36,7 @@ prose:
           element: "checkbox"
           label: "Published"
           value: false
+  media: "img"
   ignore:
     - /_layouts
     - /_includes
