@@ -40,6 +40,10 @@ prose:
   ignore:
     - /_sass
     - /_data
+    - /_includes
+    - /_layouts
+    - /assets
+    - /css
     - /categories
     - sitemap.xml
     - feed.xml
@@ -48,6 +52,7 @@ prose:
     - .gitignore
     - robots.txt
     - 404.html
+    - index.html
     
 
 # Build settings
