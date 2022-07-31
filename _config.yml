@@ -37,7 +37,6 @@ prose:
           label: "Published"
           value: false
   media: "img"
-  rooturl: "_posts"
   ignore:
     - /_sass
     - /_data
