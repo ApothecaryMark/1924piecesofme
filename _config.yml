@@ -63,3 +63,5 @@ prose:
 # Build settings
 highlighter: null
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
