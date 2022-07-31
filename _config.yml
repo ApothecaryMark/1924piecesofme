@@ -41,6 +41,8 @@ prose:
     - /_layouts
     - /_includes
     - /_sass
+    - sitemap.xml
+    - readme.html
     
 
 # Build settings
