@@ -54,7 +54,7 @@ prose:
     - 404.html
     - index.html
     # REMOVE THIS LINE TO EDIT THE CONFIG
-    - config.yml
+    - _config.yml
 
 # Build settings
 highlighter: null
