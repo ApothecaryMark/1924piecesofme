@@ -2,8 +2,7 @@
 
 .glitch {
   position: relative;
-  animation: glitch 10s steps(100) infinite;
-  text-shadow: 1px 0 0 red, -1px 0 0 blue;
+  animation: glitch 20s steps(100) infinite;
 }
 
 @keyframes glitch {
