@@ -2,7 +2,6 @@
 layout: page
 title: Contact Me
 subtitle: Questions?
-form: true
 published: true
 ---
 
