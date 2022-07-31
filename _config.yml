@@ -1,18 +1,18 @@
 # Site settings
-title: Daktilo
+title: 1924 Pieces of Me
 description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+url: "https://apothecarymark.github.io/1924piecesofme" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
-  googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
-  twitter: electrik_frog
+  fullname: Mark
+  # googleplus: https://www.google.com/+MotaquillahMaddane
+  # github: kronik3r
+  # twitter: electrik_frog
   # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
@@ -23,6 +23,19 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 
 # Handling Reading
 exclude: ["README.md", "README.html"]
+
+prose:
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
 
 # Build settings
 highlighter: null
