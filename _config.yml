@@ -32,6 +32,11 @@ prose:
         field:
           element: "hidden"
           label: "title"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: true
     contact.md:
       - name: "subtitle"
         field:
