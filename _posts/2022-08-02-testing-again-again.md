@@ -1,5 +1,5 @@
 ---
-datetime: '2022-08-02 17:54 +0100'
+date: '2022-08-02 17:54 +0100'
 published: true
 title: 'Testing again, again'
 ---
