@@ -64,7 +64,7 @@ prose:
           element: "hidden"
           value: "/about"
     _posts:
-      - name: "datetime"
+      - name: "date"
         field:
           element: "hidden"
           value: CURRENT_DATETIME
@@ -76,10 +76,6 @@ prose:
         field:
           element: "text"
           label: "subtitle"
-      - name: "date"
-        field:
-          element: "hidden"
-          label: "date"
       - name: "layout"
         field:
           element: "hidden"
