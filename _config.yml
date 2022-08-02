@@ -27,6 +27,19 @@ exclude: ["README.md", "README.html"]
 
 prose:
   metadata:
+    contact.md:
+      - name: "subtitle"
+        field:
+          element: "text"
+          label: "subtitle"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "permalink"
+        field:
+          element: "hidden"
+          value: "/contact"
     about.md:
       - name: "subtitle"
         field:
@@ -40,19 +53,6 @@ prose:
         field:
           element: "hidden"
           value: "/about"
-     contact.md:
-      - name: "subtitle"
-        field:
-          element: "text"
-          label: "subtitle"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "permalink"
-        field:
-          element: "hidden"
-          value: "/contact"
     _posts:
       - name: "title"
         field:
