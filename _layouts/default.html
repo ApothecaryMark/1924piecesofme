@@ -12,7 +12,9 @@
             {% include header.html %}
             
             {% if page.title == "Blog" %}
+            <div class="embed-container">
             {% include video.html %}
+            </div>
             {% endif %}
 
             {{ content }}
