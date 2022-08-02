@@ -27,6 +27,11 @@ exclude: ["README.md", "README.html"]
 
 prose:
   metadata:
+    _includes:
+      - name: "title"
+        field:
+          element: "hidden"
+          label: "title"
     contact.md:
       - name: "subtitle"
         field:
