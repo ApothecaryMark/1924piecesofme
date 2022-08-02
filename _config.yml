@@ -45,7 +45,12 @@ prose:
   ignore:
     - /_sass
     - /_data
-    - /_includes
+    - /_includes/category
+    - /_includes/externals
+    - /_includes/meta_tags
+    - /_includes/page
+    - /_includes/post
+    - /_includes/header.html
     - /_layouts
     - /assets
     - /css
