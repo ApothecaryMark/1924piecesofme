@@ -72,6 +72,18 @@ prose:
         field:
           element: "text"
           label: "subtitle"
+      - name: "date"
+        field:
+          element: "hidden"
+          label: "date"
+      - name: "layout"
+        field:
+          element: "hidden"
+          label: "layout"
+      - name: "categories"
+        field:
+          element: "hidden"
+          label: "categories"
       - name: "published"
         field:
           element: "checkbox"
