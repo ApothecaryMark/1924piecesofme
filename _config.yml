@@ -27,10 +27,11 @@ exclude: ["README.md", "README.html"]
 
 prose:
   metadata:
-    - name: "subtitle"
-      field:
-        element: "text"
-        label: "subtitle"
+    _pages:
+      - name: "subtitle"
+        field:
+          element: "text"
+          label: "subtitle"
     _posts:
       - name: "title"
         field:
