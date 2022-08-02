@@ -27,7 +27,7 @@ exclude: ["README.md", "README.html"]
 
 prose:
   metadata:
-    _pages:
+    about.md:
       - name: "subtitle"
         field:
           element: "text"
