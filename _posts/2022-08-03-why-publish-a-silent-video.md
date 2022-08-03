@@ -10,7 +10,7 @@ As the introductory, Star Wars style, rolling titles at the beginning of [_The A
 
 The silent version of the video is intended to represent that silence, and the struggle we face daily in articulating these issues. In many ways, we have no voice. 
 
-In a self-created psuedo-Roschach test we invite the watcher to immerse themselves in the changing images and reflect on the shapes and colours that emerge as the sequence plays on for little over an hour. What do they see in the images? What is revealed about the artist and the audience in their connection with, and through, the images? 
+In a self-created psuedo-Rorschach test we invite the watcher to immerse themselves in the changing images and reflect on the shapes and colours that emerge as the sequence plays on for little over an hour. What do they see in the images? What is revealed about the artist and the audience in their connection with, and through, the images? 
 
 **Where does the artist end and the image begin?** 
 
