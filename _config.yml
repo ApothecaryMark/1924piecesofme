@@ -12,9 +12,7 @@ author:
   fullname: The Artist Embodied
   email: me@1924piecesofme.com
   youtube: https://www.youtube.com/channel/UCN0AC9XH3ED7TQBigOZYxrQ
-  # github: kronik3r
   twitter: 1924_me
-  # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
 
@@ -113,6 +111,7 @@ prose:
     - robots.txt
     - 404.html
     - index.html
+    - *.png
     # REMOVE THIS LINE TO EDIT THE CONFIG
     - _config.yml
 
