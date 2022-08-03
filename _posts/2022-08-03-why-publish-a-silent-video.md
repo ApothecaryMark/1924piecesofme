@@ -14,6 +14,8 @@ In a self-created psuedo-Roschach test we invite the watcher to immerse themselv
 
 A voice will come. The next version of the video will feature the images of the 1924 Pieces of Me with a voice of lived experience.
 
+**Where does the image end and the artist begin?**
+
 
 
 
