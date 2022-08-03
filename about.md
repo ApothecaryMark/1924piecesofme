@@ -12,7 +12,7 @@ The Artist Embodied is a nom-de-plume or alter-ego for the project's creator(s)/
 
 In our first project, the eponymous 1924 Pieces of Me are presented as a pseudo-Rorschach test of our own creation in which we ask the viewer to reflect on what they see, and what those images mean to them. 
 
-**We ask: Where does the image end and the artist begin?**
+**Where does the image end and the artist begin?**
 
 An initial silent video presentation shows all 1924 Pieces of Me in an hour-long representation of the silent struggle of disability and mental ill-health. ([Find out more](https://www.youtube.com/watch?v=29SXAQJweOk "1924 Pieces of Me in Silence")).
 
