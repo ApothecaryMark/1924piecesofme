@@ -111,7 +111,32 @@ prose:
     - robots.txt
     - 404.html
     - index.html
-    - *.png
+    - apple-touch-icon-114x114.png
+    - apple-touch-icon-120x120.png
+    - apple-touch-icon-144x144.png
+    - apple-touch-icon-152x152.png
+    - apple-touch-icon-57x57.png
+    - apple-touch-icon-60x60.png
+    - apple-touch-icon-72x72.png
+    - apple-touch-icon-76x76.png
+    - favicon-128.png
+    - favicon-16x16.png
+    - favicon-196x196.png
+    - favicon-32x32.png
+    - favicon-96x96.png
+    - favicon.ico
+    - general-social-share-preview.png
+    - github-social-preview.png
+    - logo-final-twitter-header.png
+    - logo-square.png
+    - logo-transparent.png
+    - logo-youtube-channel-art.png
+    - logo.png
+    - mstile-144x144.png
+    - mstile-150x150.png
+    - mstile-310x150.png
+    - mstile-310x310.png
+    - mstile-70x70.png
     # REMOVE THIS LINE TO EDIT THE CONFIG
     - _config.yml
 
