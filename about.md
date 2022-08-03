@@ -14,7 +14,7 @@ In our first project, the eponymous 1924 Pieces of Me are presented as a pseudo-
 
 **We ask: Where does the image end and the artist begin?**
 
-An initial silent video presentation shows all 1924 Pieces of Me in an hour-long representation of the silent struggle of disability and mental ill-health. (Find out more).
+An initial silent video presentation shows all 1924 Pieces of Me in an hour-long representation of the silent struggle of disability and mental ill-health. ([Find out more](https://www.youtube.com/watch?v=29SXAQJweOk "1924 Pieces of Me in Silence")).
 
 The underlying series of images for this project was first created on January 11th 2021 with the current project given life in August 2022.
 
@@ -26,6 +26,6 @@ They are a parent, a poet and a player of board games. They cannot play the ukul
  
 Currently they advise on a diverse range of issues such as disability hate crime, social care, social security, technology ethics, inclusive travel and the COVID-19 response.
 
-The project will move into the NFT space from August 2022, bringing debates around disability and mental ill-health into the blockchain. 
+The project will move into the NFT space from August 2022, bringing debates around disability and mental ill-health into the blockchain. Visit use on [Opensea.com](https://opensea.io/collection/1924piecesofme "1924 Pieces of Me NFT Collection") to find out more. 
 
 **Where does the artist end and the image begin?**
