@@ -12,6 +12,7 @@ In a self-created psuedo-Roschach test we invite the watcher to immerse themselv
 
 **Where does the artist end and the image begin?** 
 
+A voice will come. The next version of the video will feature the images of the 1924 Pieces of Me with a voice of lived experience.
 
 
 
