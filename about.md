@@ -24,6 +24,6 @@ They are a parent, a poet and a player of board games. They cannot play the ukul
  
 Currently they advise on a diverse range of issues such as disability hate crime, social care, social security, technolology ethics, inclusive travel and the COVID-19 response.
 
-The project will move in to the NFT space from August 2022 bringing debates around disability and mental ill-health in to the bloackchain space. 
+The project will move in to the NFT space from August 2022 bringing debates around disability and mental ill-health in to the blockchain. 
 
 **Where does the artist end and the image begin?**
