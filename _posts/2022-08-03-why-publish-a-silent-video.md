@@ -14,6 +14,6 @@ In a self-created psuedo-Roschach test we invite the watcher to immerse themselv
 
 **Where does the artist end and the image begin?** 
 
-A voice will come. The next version of the video will feature the images of the 1924 Pieces of Me collection with a voice of lived experience.
+A voice will come. The next version of the video will feature the images of the [1924 Pieces of Me collection](https://opensea.io/collection/1924piecesofme "1924 Pieces of Me collection on Opensea") with a voice of lived experience.
 
 **Where does the image end and the artist begin?**
