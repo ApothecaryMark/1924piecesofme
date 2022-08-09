@@ -25,13 +25,15 @@
         {% if foundImage == 0 %}
           {% assign html = image | split:'alt=' | first %}
           {% assign imgurl = html | remove:'src=' | remove:'"' | remove: '/img' | remove:'/' | remove: ' ' %}
-            <meta name="og:image" content="{{ site.url }}/img/{{ imgurl }}" />
+            <meta property="og:image" content="http://1924piecesofme.com/img/{{ imgurl }}" />
+            <meta property="og:image:secure_url" content="https://1924piecesofme.com/img/{{ imgurl }}" />
            {% assign foundImage = 1 %}
          {% endif %}
        {% endif %}
      {% endfor %}
 {% else %}
-        <meta name="og:image" content="{{ site.url }}/logo.png" />
+        <meta property="og:image" content="http://1924piecesofme.com/logo.png" />
+        <meta property="og:image:secure_url" content="https://1924piecesofme.com/logo.png" />
 {% endif %}
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}" />
 <meta property="og:site_name" content="{{ site.title }}" />
