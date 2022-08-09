@@ -4,11 +4,11 @@
 {% if page.cover %} {% assign cover = page.cover %} {% else %} {% assign cover = site.cover %} {% endif %}
 
 <!-- Open Graph -->
-<meta property="og:locale" content="en_gb">
+<meta property="og:locale" content="en_gb" />
 {% if page.path contains '_posts' %}
-<meta property="og:type" content="article">
+<meta property="og:type" content="article" />
 {% else %}
-<meta property="og:type" content="website">
+<meta property="og:type" content="website" />
 {% endif %}
 {% if page.title != "Blog" %}
   <meta property="og:title" content="{{ page.title }} &raquo; {{ site.title }}" />
@@ -25,17 +25,17 @@
         {% if foundImage == 0 %}
           {% assign html = image | split:'alt=' | first %}
           {% assign imgurl = html | remove:'src=' | remove:'"' | remove: '/img' | remove:'/' | remove: ' ' %}
-            <meta name="og:image" content="{{ site.url }}/img/{{ imgurl }}">
+            <meta name="og:image" content="{{ site.url }}/img/{{ imgurl }}" />
            {% assign foundImage = 1 %}
             <!-- the array is {{ imgurl }} -->
          {% endif %}
        {% endif %}
      {% endfor %}
 {% else %}
-        <meta name="og:image" content="{{ site.url }}/logo.png">
+        <meta name="og:image" content="{{ site.url }}/logo.png" />
 {% endif %}
-<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}" />
+<meta property="og:site_name" content="{{ site.title }}" />
 
 <!-- Twitter Cards -->
 {% if page.content contains '<img src=' %}
@@ -46,16 +46,16 @@
         {% if foundImage == 0 %}
           {% assign html = image | split:'alt=' | first %}
           {% assign imgurl = html | remove:'src=' | remove:'"' | remove: '/img' | remove:'/' | remove: ' ' %}
-            <meta name="twitter:card"  content="summary">
-            <meta name="twitter:image" content="{{ site.url }}/img/{{ imgurl }}">
+            <meta name="twitter:card"  content="summary" />
+            <meta name="twitter:image" content="{{ site.url }}/img/{{ imgurl }}" />
            {% assign foundImage = 1 %}
             <!-- the array is {{ imgurl }} -->
          {% endif %}
        {% endif %}
      {% endfor %}
 {% else %}
-        <meta name="twitter:card" content="summary">
-        <meta name="twitter:image" content="{{ site.url }}/logo.png">
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:image" content="{{ site.url }}/logo.png" />
 {% endif %}
 <meta name="twitter:site" content="@1924_me" />
 {% if page.title != "Blog" %}
