@@ -36,17 +36,19 @@
 <!-- Did I include an image in this post? -->
 {% assign foundImage = 0 %}
 {% assign images = page.content | split:'<img ' %}
-  {% for image in images %}
-    {% if image contains 'src' %}
-      {% if foundImage == 0 %}
-        {% assign html = image | split:'alt=' | first %}
-        {% assign imgurl = html | remove:'src=' | remove:'"' | remove: '/img' | remove:'/' | remove: ' ' %}
-          <meta name="twitter:card"  content="summary_large_image">
-          <meta name="twitter:image" content="{{ site.url }}/{{ imgurl }}">
-         {% assign foundImage = 1 %}
-        {% else %}
-          <meta name="twitter:card"  content="summary">
-          <meta name="twitter:image" content="{{ site.url }}/logo.png">
+  {% if images == true %}
+    {% for image in images %}
+      {% if image contains 'src' %}
+        {% if foundImage == 0 %}
+          {% assign html = image | split:'alt=' | first %}
+          {% assign imgurl = html | remove:'src=' | remove:'"' | remove: '/img' | remove:'/' | remove: ' ' %}
+            <meta name="twitter:card"  content="summary_large_image">
+            <meta name="twitter:image" content="{{ site.url }}/img/{{ imgurl }}">
+           {% assign foundImage = 1 %}
+         {% endif %}
        {% endif %}
-     {% endif %}
-   {% endfor %}
+     {% endfor %}
+    {% else %}
+       <meta name="twitter:card" content="summary">
+       <meta name="twitter:image" content="{{ site.url }}/logo.png">
+    {% endif %}
