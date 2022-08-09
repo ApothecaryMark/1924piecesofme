@@ -37,9 +37,9 @@
 {% endif %}
 
 
-<!-- Did I include an "image" variable in this post's front matter? -->
+<!-- Did I include an image in this post? -->
 {% assign foundImage = 0 %}
-{% assign images = post.content | split:"<img " %}
+{% assign images = page.content | split:"<img " %}
   {% for image in images %}
     {% if image contains 'src' %}
       {% if foundImage == 0 %}
