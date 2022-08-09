@@ -25,6 +25,13 @@
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 
+<pre id="jekyll-debug"></pre>
+<script>
+  var obj = JSON.parse(decodeURIComponent("{{ site | jsonify | uri_escape }}"));
+  var prettyJson = JSON.stringify(obj, null, 4);  // Pretty-printed JSON (indented 4 spaces).
+  document.getElementById("jekyll-debug").textContent = prettyJson;
+</script>
+
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@1924_me" />
@@ -39,7 +46,7 @@
 
 <!-- Did I include an image in this post? -->
 {% assign foundImage = 0 %}
-{% assign images = page.content | split:'>' %}
+{% assign images = page.content | split:'alt' %}
   {% for image in images %}
     {% if image contains 'src' %}
       {% if foundImage == 0 %}
