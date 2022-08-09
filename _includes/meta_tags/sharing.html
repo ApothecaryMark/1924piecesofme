@@ -27,7 +27,6 @@
           {% assign imgurl = html | remove:'src=' | remove:'"' | remove: '/img' | remove:'/' | remove: ' ' %}
             <meta name="og:image" content="{{ site.url }}/img/{{ imgurl }}" />
            {% assign foundImage = 1 %}
-            <!-- the array is {{ imgurl }} -->
          {% endif %}
        {% endif %}
      {% endfor %}
@@ -46,10 +45,9 @@
         {% if foundImage == 0 %}
           {% assign html = image | split:'alt=' | first %}
           {% assign imgurl = html | remove:'src=' | remove:'"' | remove: '/img' | remove:'/' | remove: ' ' %}
-            <meta name="twitter:card"  content="summary" />
+            <meta name="twitter:card"  content="summary_large_image" />
             <meta name="twitter:image" content="{{ site.url }}/img/{{ imgurl }}" />
            {% assign foundImage = 1 %}
-            <!-- the array is {{ imgurl }} -->
          {% endif %}
        {% endif %}
      {% endfor %}
