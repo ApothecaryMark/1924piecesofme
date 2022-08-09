@@ -39,21 +39,17 @@
 
 <!-- Did I include an "image" variable in this post's front matter? -->
 {% assign foundImage = 0 %}
-      {% assign images = post.content | split:"<img " %}
-      {% for image in images %}
-        {% if image contains 'src' %}
-            {% if foundImage == 0 %}
-                {% assign html = image | split:"/>" | first %}
-                <img {{ html }} />
-                {% assign foundImage = 1 %}
-            {% endif %}
-        {% endif %}
-      {% endfor %}
-
- {% if foundImage == 1 %}
-  <meta name="twitter:card"  content="summary_large_image">
-  <meta name="twitter:image" content="{{ site.url }}/{{ html }}">
- {% else %}
-  <meta name="twitter:card"  content="summary">
-  <meta name="twitter:image" content="{{ site.url }}/logo.png">
- {% endif %}
+{% assign images = post.content | split:"<img " %}
+  {% for image in images %}
+    {% if image contains 'src' %}
+      {% if foundImage == 0 %}
+        {% assign html = image | split:"/>" | first %}
+          <meta name="twitter:card"  content="summary_large_image">
+          <meta name="twitter:image" content="{{ site.url }}/{{ html }}">
+         {% assign foundImage = 1 %}
+        {% else %}
+          <meta name="twitter:card"  content="summary">
+          <meta name="twitter:image" content="{{ site.url }}/logo.png">
+       {% endif %}
+     {% endif %}
+   {% endfor %}
