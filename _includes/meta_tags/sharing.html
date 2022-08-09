@@ -9,18 +9,31 @@
 
 <!-- Open Graph -->
 <meta property="og:locale" content="{{ site.lang }}">
+{% if page.path contains '_posts' %}
+<meta property="og:type" content="article">
+{% else %}
 <meta property="og:type" content="website">
-<meta property="og:title" content="{{ site.title }}">
-<meta property="og:description" content="{{ description }}">
-<meta property="og:image" content="https://1924piecesofme.com/logo.png">
+{% endif %}
+{% if page.title != "Blog" %}
+  <meta property="og:title" content="{{ page.title }} &raquo; {{ site.title }} " />
+  <meta property="og:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}" />
+{% else %}
+  <meta property="og:title" content="{{ site.title }}" />
+  <meta property="og:description" content="{{ description }}" />
+{% endif %}
+<meta property="og:image" content="{{ site.url }}/logo.png">
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@1924_me" />
-<meta property="og:url" content="https://1924piecesofme.com" />
-<meta property="og:title" content="{{ site.title }}" />
-<meta property="og:description" content="{{ description }}" />
-<meta property="twitter:image" content="https://1924piecesofme.com/twitter-card.png" />
+{% if page.title != "Blog" %}
+  <meta property="og:title" content="{{ page.title }} &raquo; {{ site.title }} " />
+  <meta property="og:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}" />
+{% else %}
+  <meta property="og:title" content="{{ site.title }}" />
+  <meta property="og:description" content="{{ description }}" />
+{% endif %}
+<meta property="twitter:image" content="{{ site.url }}/twitter-card.png" />
 <meta name="twitter:image:alt" content="1924 Pieces of Me">
