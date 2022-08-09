@@ -39,11 +39,11 @@
 
 <!-- Did I include an image in this post? -->
 {% assign foundImage = 0 %}
-{% assign images = page.content | split:"<img src=" %}
+{% assign images = page.content | split:'<img src="img/' %}
   {% for image in images %}
     {% if image contains 'src' %}
       {% if foundImage == 0 %}
-        {% assign html = image | split:"/>" | first %}
+        {% assign html = image | split:'">' | first %}
           <meta name="twitter:card"  content="summary_large_image">
           <meta name="twitter:image" content="{{ site.url }}/{{ html }}">
          {% assign foundImage = 1 %}
