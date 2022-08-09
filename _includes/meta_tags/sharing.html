@@ -17,7 +17,7 @@
   <meta property="og:title" content="{{ site.title }}" />
   <meta property="og:description" content="{{ description | strip_html }}" />
 {% endif %}
-<meta property="og:image" content="{{ site.url }}/logo.png">
+<!--meta property="og:image" content="{{ site.url }}/logo.png"-->
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 
@@ -31,7 +31,7 @@
           {% assign html = image | split:'alt=' | first %}
           {% assign imgurl = html | remove:'src=' | remove:'"' | remove: '/img' | remove:'/' | remove: ' ' %}
             <meta name="twitter:card"  content="summary_large_image">
-            <meta name="twitter:image" content="{{ site.url }}/img/{{ imgurl }}">
+            <meta name="og:image" content="{{ site.url }}/img/{{ imgurl }}">
            {% assign foundImage = 1 %}
             <!-- the array is {{ imgurl }} -->
          {% endif %}
@@ -39,7 +39,7 @@
      {% endfor %}
 {% else %}
         <meta name="twitter:card" content="summary">
-        <meta name="twitter:image" content="{{ site.url }}/logo.png">
+        <meta name="og:image" content="{{ site.url }}/logo.png">
 {% endif %}
 <meta name="twitter:site" content="@1924_me" />
 {% if page.title != "Blog" %}
