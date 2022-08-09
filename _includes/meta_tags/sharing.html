@@ -35,5 +35,25 @@
   <meta property="og:title" content="{{ site.title }}" />
   <meta property="og:description" content="{{ description }}" />
 {% endif %}
-<meta property="twitter:image" content="{{ site.url }}/twitter-card.png" />
-<meta name="twitter:image:alt" content="1924 Pieces of Me">
+
+
+<!-- Did I include an "image" variable in this post's front matter? -->
+{% assign foundImage = 0 %}
+      {% assign images = post.content | split:"<img " %}
+      {% for image in images %}
+        {% if image contains 'src' %}
+            {% if foundImage == 0 %}
+                {% assign html = image | split:"/>" | first %}
+                <img {{ html }} />
+                {% assign foundImage = 1 %}
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+
+ {% if foundImage = 1 %}
+  <meta name="twitter:card"  content="summary_large_image">
+  <meta name="twitter:image" content="{{ site.url }}/{{ html }}">
+ {% else %}
+  <meta name="twitter:card"  content="summary">
+  <meta name="twitter:image" content="{{ site.url }}/logo.png">
+ {% endif %}
