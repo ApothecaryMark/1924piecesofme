@@ -35,8 +35,10 @@
 
 <!-- Did I include an image in this post? -->
 {% assign foundImage = 0 %}
-{% assign images = page.content | split:'<img ' %}
-  {% if images == true %}
+{% assign images = page.content | split:'<img ' | first %}
+  
+  {% if images.size > 0 %}
+  
     {% for image in images %}
       {% if image contains 'src' %}
         {% if foundImage == 0 %}
@@ -48,7 +50,8 @@
          {% endif %}
        {% endif %}
      {% endfor %}
-    {% else %}
-       <meta name="twitter:card" content="summary">
-       <meta name="twitter:image" content="{{ site.url }}/logo.png">
-    {% endif %}
+  
+  {% else %}
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:image" content="{{ site.url }}/logo.png">
+  {% endif %}
