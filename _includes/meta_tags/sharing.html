@@ -40,10 +40,9 @@
     {% if image contains 'src' %}
       {% if foundImage == 0 %}
         {% assign html = image | split:'alt=' | first %}
-        {% assign imgurl = html | remove:'src=' %}
-        {% assign img = imgurl | remove:"/img/" %}
+        {% assign imgurl = html | remove:'src=' | remove:'"' | remove: '/img' | remove:'/' | remove: ' ' %}
           <meta name="twitter:card"  content="summary_large_image">
-          <meta name="twitter:image" content="{{ site.url }}/{{ img }}">
+          <meta name="twitter:image" content="{{ site.url }}/{{ imgurl }}">
          {% assign foundImage = 1 %}
         {% else %}
           <meta name="twitter:card"  content="summary">
