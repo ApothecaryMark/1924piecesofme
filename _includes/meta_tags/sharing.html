@@ -35,8 +35,8 @@
 
 <!-- Did I include an image in this post? -->
 
-{% if page.content contains '<img src ' %}
- <!-- if so... -->
+{% if page.content contains '<img src=' %}
+  <!-- if so... -->
 {% assign foundImage = 0 %}
 {% assign images = page.content | split:'<img ' %}
     {% for image in images %}
@@ -51,8 +51,8 @@
          {% endif %}
        {% endif %}
      {% endfor %}
-<!-- if not... -->
 {% else %}
+<!-- if not... -->
         <meta name="twitter:card" content="summary">
         <meta name="twitter:image" content="{{ site.url }}/logo.png">
 {% endif %}
