@@ -22,7 +22,6 @@
 <meta property="og:site_name" content="{{ site.title }}">
 
 <!-- Twitter Cards -->
-<meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@1924_me" />
 {% if page.title != "Blog" %}
   <meta property="og:title" content="{{ page.title }} &raquo; {{ site.title }}" />
@@ -31,7 +30,6 @@
   <meta property="og:title" content="{{ site.title }}" />
   <meta property="og:description" content="{{ description | strip_html }}" />
 {% endif %}
-
 
 <!-- Did I include an image in this post? -->
 
@@ -56,3 +54,4 @@
         <meta name="twitter:card" content="summary">
         <meta name="twitter:image" content="{{ site.url }}/logo.png">
 {% endif %}
+
