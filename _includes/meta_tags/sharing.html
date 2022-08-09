@@ -35,7 +35,7 @@
 
 <!-- Did I include an image in this post? -->
 {% assign foundImage = 0 %}
-{% assign images = page.content | split:'<img ' | first %}
+{% assign images = page.content | split:'<img ' %}
   
   {% if images.size > 0 %}
   
