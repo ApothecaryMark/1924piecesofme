@@ -1,7 +1,7 @@
 ---
 date: '2022-08-11 15:12 +0100'
 published: true
-title: To NTF or not to NTF? That is THE Question
+title: To NFT or not to NFT? That is THE Question!
 ---
 ## A more divisive question than you might think...
 
