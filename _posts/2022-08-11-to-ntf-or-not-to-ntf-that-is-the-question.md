@@ -1,6 +1,6 @@
 ---
 date: '2022-08-11 15:12 +0100'
-published: true
+published: false
 title: To NFT or not to NFT? That is THE Question!
 ---
 ## A more divisive question than you might think...
@@ -50,4 +50,3 @@ Another point of concern is the environmental impact of blockchain. It’s a rea
 The full collection of 1924 Pieces of Me will be available on Opensea to view and collect. [Find out more.](https://opensea.io/collection/1924piecesofme "Link to 1924 Pieces of Me collection on Opensea")
 
 You can also explore the collection on YouTube at the [1924 Pieces of Me](https://www.youtube.com/channel/UCN0AC9XH3ED7TQBigOZYxrQ "Link to YouTube channel") channel.
-
