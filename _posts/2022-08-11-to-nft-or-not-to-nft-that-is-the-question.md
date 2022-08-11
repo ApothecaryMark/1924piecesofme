@@ -17,9 +17,9 @@ In the past, I have also been an entrepreneur. I always liked the term "social e
 
 I ~~didn't~~ _couldn't_ pay my rent. I ~~didn't~~ _couldn't_ pay my mortgage. I used the money earmarked for those things to pay my staff and operating costs. I used my disability benefits to do the same thing. Until, eventually, the money ran out altogether and I couldn't pay my staff. And everything fell apart. I could point to things that "caused" my problems. I could complain about landlords, the economy, or any number of things. However, it doesn't matter: the buck stopped here. And everything fell apart.
 
-I've always had cerebral palsy: I was born with it. Or, rather, I was born two months premature and as a consequence have cerebral palsy. My price for being alive. My legs and hands do not work too well. One of my thumbs is deformed too which doesn't really help matters. I've always been fairly blasé about it, and I don't think I really "came out" as disabled until I was in my early twenties. (Something I will talk about at a later date). I didn't want _how_ I was to define _who_ I was. Things have changed quite a bit since then.
+I've always had cerebral palsy: I was born with it. Or, rather, I was born two months premature and as a consequence have cerebral palsy. My price for being alive. My legs and hands do not work too well. One of my thumbs is deformed too which doesn't really help matters. I've always been fairly blasé about it, and I don't think I really "came out" as disabled until I was in my early twenties. (Something I will talk about at a later date.) I didn't want _how_ I was to define _who_ I was. Things have changed quite a bit since then.
 
-I think I first developed PTSD when I was 20, but it it is hard to say. I only recognised it later. Trauma is as trauma does. (That is a discussion for later too). 
+I think I first developed PTSD when I was 20, but it is hard to say. I only recognised it later. Trauma is as trauma does. (That is a discussion for later too). 
 
 But, back to the recent past: when I could not pay my staff, I could not cope with it. And everything fell apart. 
 
