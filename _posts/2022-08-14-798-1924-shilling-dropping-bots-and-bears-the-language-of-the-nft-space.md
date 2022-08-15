@@ -23,6 +23,5 @@ My response is to share details of the project on these posts with commentary ab
 
 ![Screenshot showing nothing but drops requests]({{site.baseurl}}/img/Drop list tweet.PNG)
 
-The other word that is used a lot in these posts is _"drop"_ which conjours a sense of abandonment: "let your art fall here and walk away". Each call for _shills_ or _drops_ gets hundreds of replies, and it seems likely that my comments will be lost in the noise. That being said I have been pleased to see a couple of likes and retweets from outside of the NFT space.
-
+The other word that is used a lot in these posts is _"drop"_ which conjours a sense of abandonment: "let your art fall here and walk away". Each call for _shills_ or _drops_ gets hundreds of replies, and it seems likely that my comments will be lost in the noise. That being said I have been pleased to see a couple of likes and retweets from outside of the NFT space. 
 
