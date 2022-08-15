@@ -1,6 +1,6 @@
 ---
 date: '2022-08-14 12:43 +0100'
-published: false
+published: true
 title: '798/1924, Shilling, Dropping, Bots and Bears: The Language of the NFT Space '
 ---
 As of a couple of days ago [fifty percent of _Me_ is live (for sale) on Opensea](https://opensea.io/collection/1924piecesofme "1924 Pieces of Me collection on Opensea"). That is to say that pieces 1/1924 to 962/1924 have been "minted" and listed for sale. They should appear in order but, to be honest, I am only human so there are a few errors in the number order. The human touch is important throughout this project in terms of content, practice, praxis and process. 
@@ -49,24 +49,24 @@ _Do #nftcollectors hear the voices of the #artists in the #NFTCommunity? People 
 
 ![798/1924 (Position 16, Colour Scheme 18)]({{site.baseurl}}/img/S5P16HG2.png)
 
-As I gave at the image of what appears to be a lime green wallnut: I see a grimacing face partly obscured so I only see the mouth and nose. Then I notice the face of a rabbit staring back at me or is it a guinea pig? 
+As I gaze at the image of what appears to be a lime green walnut: I see a grimacing face partly obscured so I only see the mouth and nose. Then I notice the face of a rabbit staring back at me, or is it a guinea pig? 
 
-"Is that two upside down faces kissing?" asks my friend as she looks at the image over my shoulder. I can see it where she points, two slug-like ailiens kissing? I smile to myself for a moment, happy to know that even slug-like alien figures find love. I glance away and the face of the rabbit/guinea pig comes back in to focus. I wonder what that means.
+"Is that two faces kissing, one upside down?" asks my friend as she looks at the image over my shoulder. I can see it where she points, two slug-like aliens kissing. To me they both appear to be upside down. Maybe she she saw something else? I smile to myself for a moment, happy to know that even slug-like alien figures find love. I glance away and the face of the rabbit/guinea pig comes back into focus. I wonder what that means. 
 
-Continuing my experimental (perhaps, in more ways than one: I am the guineau pig I see?) exploration of the NFT space the other thing I have become heavily aware of is _bots_. As soon as I started to tweet about NFTs I immediately experienced bot interactions, some more ovious than others. Some accounts seem to automatically reply to your tweet to suggest you promote your project on one service or another. Some accounts will send you a direct message telling: "they are so grateful for the follow, but have you seen their friend's amazing site which will promote your project if ..." and the list goes on with any number of variations including some obvious phishing scams. 
+Continuing my experimental (perhaps, in more ways than one: I am the guinea pig I see?) exploration of the NFT space, the other thing I have become heavily aware of is _bots_. As soon as I started to tweet about NFTs, I immediately experienced bot interactions, some more ovious than others. Some accounts seem to automatically reply to your tweet to suggest you promote your project on one service or another. Some accounts will send you a direct message saying that that they are so grateful for the follow, _but_ have you seen their friend's amazing site which will promote your project if ... The list goes on with any number of variations. There are some obvious phishing scams. 
 
-I wonder how many of the inumerable _collectors_ asking _creators_ to _shill_ or _drop_ our NFTs are automated scripts posting and gathering information automatically. I posed this question in another [largely ignored reply to a shill request](https://twitter.com/1924_me/status/1558711547362426881?s=21&t=tM0jMd0gLU4gLCdHW80zoQ "Link to tweet about the number of bots"):
+I wonder how many of the innumerable _collectors_ asking _creators_ to _shill_ or _drop_ our NFTs are automated scripts posting and gathering information automatically. I posed this question in another [largely ignored reply to a shill request](https://twitter.com/1924_me/status/1558711547362426881?s=21&t=tM0jMd0gLU4gLCdHW80zoQ "Link to tweet about the number of bots"):
 
 _Is the #NFT world full of #bots? I know there are humans too: I heard them on podcasts & spaces._
 
 ![Tweet sent to Elon Musk]({{site.baseurl}}/img/Elon%20Tweet%20bots.PNG)
 
-Remembering that Elon Musk had ended his attempt to buy twitter because of a lack of clarity about the number of bots on the platform, [I decided to share that tweet with him too.](https://twitter.com/1924_me/status/1558734556903211008?s=21&t=tM0jMd0gLU4gLCdHW80zoQ "Tweet to Elon Musk")
+Remembering that Elon Musk had ended his attempt to buy Twitter because of a lack of clarity about the number of bots on the platform, [I decided to share that tweet with him too.](https://twitter.com/1924_me/status/1558734556903211008?s=21&t=tM0jMd0gLU4gLCdHW80zoQ "Tweet to Elon Musk")
 
 I asked him:
 
 _@elonmusk did you ever come up with an estimate of the number Twitter #bots ? There’s amazing bot art. They have a place. BUT when trying to bring #disability, #mentalhealth and #vulnerability to the #NFT space the world is full of bots that fabricate promotion and stifle debate._
 
-I don't know where the line is between useful and legitmate automation, and malignancy but it feels like the NFT space, and other parts of the twitter-verse might be walking that fine line. Or may well have already crossed it. It certainly feels like they are fabricating the possibility of promoting artwork and art work, and crowding the space so much as to stifle genuine interaction. 
+I don't know where the line is between useful/legitmate automation and malignancy but it feels like the NFT space (and other parts of the Twitter-verse) might be walking that fine line - or may well have already crossed it? It certainly feels like they are fabricating the possibility of promoting artwork and art work, and crowding the space so much as to stifle genuine interaction. 
 
 I doubt he'll reply, but we can add that to the list of things that I hope to disprove with this project. I suppose it is a little bit eccentric of me to expect the richest man in the world to take an interest in my questions. Perhaps, I can say the rabbit made me do it, or was it the guinea pig, or the kissing slug-like aliens? Either way, he can rest assured that the message came from a human, not a bot.
