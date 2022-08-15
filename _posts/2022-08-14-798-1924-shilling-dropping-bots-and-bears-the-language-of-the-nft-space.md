@@ -47,9 +47,18 @@ As I gave at the image of what appears to be a lime green wallnut: I see a grima
 
 "Is that two upside down faces kissing?" asks my friend as she looks at the image over my shoulder. I can see it where she points, two slug-like ailiens kissing? I smile to myself for a moment, happy to know that even slug-like alien figures find love. I glance away and the face of the rabbit/guinea pig comes back in to focus. I wonder what that means.
 
-Continuing my experimental (perhaps, in more ways than one: I am the guineau pig I see?) exploration of the NFT space the other thing I have become heavily aware of is _bots_. I wonder how many of the many _collectors_ asking creators to _shill_ or _drop_ our NFTs are automated scripts posting and gathering information automatically. I posed this question in another largely ignored reply to a shill request:
+Continuing my experimental (perhaps, in more ways than one: I am the guineau pig I see?) exploration of the NFT space the other thing I have become heavily aware of is _bots_. As soon as I started to tweet about NFTs I immediately experienced bot interactions, some more ovious than others. Some accounts seem to automatically reply to your tweet to suggest you promote your project on one service or another. Some accounts will send you a direct message telling: "they are so grateful for the follow, but have you seen their friend's amazing site which will promote your project if ..." and the list goes on with any number of variations including some obvious phishing scams. 
 
+I wonder how many of the inumerable _collectors_ asking _creators_ to _shill_ or _drop_ our NFTs are automated scripts posting and gathering information automatically. I posed this question in another [largely ignored reply to a shill request](https://twitter.com/1924_me/status/1558711547362426881?s=21&t=tM0jMd0gLU4gLCdHW80zoQ "Link to tweet about the number of bots"):
 
+_Is the #NFT world full of #bots? I know there are humans too: I heard them on podcasts & spaces._
 
+![Tweet sent to Elon Musk]({{site.baseurl}}/img/Elon%20Tweet%20bots.PNG)
 
+Remembering that Elon Musk had ended his attempt to buy twitter because of a lack of clarity about the number of bots on the platform, [I decided to share that tweet with him too.](https://twitter.com/1924_me/status/1558734556903211008?s=21&t=tM0jMd0gLU4gLCdHW80zoQ "Tweet to Elon Musk")
 
+I asked him:
+
+_@elonmusk did you ever come up with an estimate of the number Twitter #bots ? There’s amazing bot art. They have a place. BUT when trying to bring #disability, #mentalhealth and #vulnerability to the #NFT space the world is full of bots that fabricate promotion and stifle debate._
+
+I doubt he'll reply, but we can add that to the list of things that I hope to disprove with this project. I suppose it is a little bit eccentric of me to expect the richest man in the world to take an interest in my questions. Perhaps, I can say the rabbit made me do it, or was it the guinea pig, or the kissing slug-like aliens? Either way, the message came from a human, not a bot.
