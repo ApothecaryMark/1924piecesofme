@@ -1,6 +1,6 @@
 ---
 date: '2022-08-14 12:43 +0100'
-published: false
+published: true
 title: '798/1924, Shilling, Dropping, Bots and Bears: The Language of the NFT Space '
 ---
 As of a couple of days ago [fifty percent of _Me_ is live (for sale) on Opensea](https://opensea.io/collection/1924piecesofme "1924 Pieces of Me collection on Opensea"). That is to say that pieces 1/1924 to 962/1924 have been "minted" and listed for sale. They should appear in order but, to be honest, I am only human so there are a few errors in the number order. The human touch is important throughout this project in terms of content, practice, praxis and process. 
