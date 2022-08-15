@@ -42,4 +42,3 @@ When replying to one _"collector's"_ post I noticed that he had 797 replies alre
 ![798/1924 (Position 16, Colour Scheme 18)]({{site.baseurl}}/img/S5P16HG2.png)
 
 
-
