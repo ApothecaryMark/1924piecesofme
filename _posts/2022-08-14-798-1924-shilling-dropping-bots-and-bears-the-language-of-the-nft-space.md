@@ -1,6 +1,6 @@
 ---
 date: '2022-08-14 12:43 +0100'
-published: true
+published: false
 title: '798/1924, Shilling, Dropping, Bots and Bears: The Language of the NFT Space '
 ---
 As of a couple of days ago [fifty percent of _Me_ is live (for sale) on Opensea](https://opensea.io/collection/1924piecesofme "1924 Pieces of Me collection on Opensea"). That is to say that pieces 1/1924 to 962/1924 have been "minted" and listed for sale. They should appear in order but, to be honest, I am only human so there are a few errors in the number order. The human touch is important throughout this project in terms of content, practice, praxis and process. 
@@ -59,7 +59,8 @@ I wonder how many of the innumerable _collectors_ asking _creators_ to _shill_ o
 
 _Is the #NFT world full of #bots? I know there are humans too: I heard them on podcasts & spaces._
 
-![Tweet sent to Elon Musk]({{site.baseurl}}/img/Elon%20Tweet%20bots.PNG)
+![Elon Musk Tweet]({{site.baseurl}}/img/Elon Tweet bots.PNG)
+
 
 Remembering that Elon Musk had ended his attempt to buy Twitter because of a lack of clarity about the number of bots on the platform, [I decided to share that tweet with him too.](https://twitter.com/1924_me/status/1558734556903211008?s=21&t=tM0jMd0gLU4gLCdHW80zoQ "Tweet to Elon Musk")
 
