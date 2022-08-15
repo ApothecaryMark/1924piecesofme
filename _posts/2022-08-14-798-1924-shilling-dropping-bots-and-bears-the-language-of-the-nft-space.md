@@ -31,7 +31,7 @@ Each call for _shills_ or _drops_ gets hundreds of replies, and it seems likely 
 
 Where possible, I try to respond to clues in the _"collector's"_ post or twitter handle, and tailor my commentary towards them. This is of course impossible for the majority of accounts that follow a boilerplate "Drop/Shill your NFT here" format, but there are occasions where it is possible. For example, when [replying to NFT Freak](https://twitter.com/1924_me/status/1558371127323463681?s=21&t=-Uq0UnWhigE3Au6OtReOkA "Reply to NFT Freak") I was reminded of the many occasions I had faced name calling and other forms of anti-social behaviour in my life. I asked: 
 
-	What does it mean to be called a #freak? Or #weird? Or #eccentric?
+_What does it mean to be called a #freak? Or #weird? Or #eccentric?_
     
 ![Freak reply tweet.PNG]({{site.baseurl}}/img/Freak%20reply%20tweet.PNG)
 
