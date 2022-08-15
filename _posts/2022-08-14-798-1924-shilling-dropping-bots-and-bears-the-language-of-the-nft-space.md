@@ -27,6 +27,8 @@ The other word that is used a lot in these posts is _"drop"_ which conjours a se
 
 	What does it mean to be called a #freak? Or #weird? Or #eccentric?
     
+![Freak reply tweet.PNG]({{site.baseurl}}/img/Freak%20reply%20tweet.PNG)
+
 This question had been on my mind a lot because of the time of year. The 11th of August is the anneversary of the murder of Sophie Lancaster. Sophie was killed in what was a de facto hate crime against her (and her partner) because they were "different". What did Sophie do to attract fatal abuse from her attackers?: nothing except follow her passions and be comfortable with herself. Perhaps you might say she was "a goth" [The Sophie Lancaster Foundation website explains](https://www.sophielancasterfoundation.com/ "Link to the Sophie Lancaster foundation"):
 
 	_She and her boyfriend were creative, artistic people who dressed in their own unique way. 		They were attacked by a gang of five boys in a park in Bacup, Lancashire on 11 August 2007. 	The gang attacked Sophie’s boyfriend first and then turned on her, carrying out a brutal and 	sustained attack._ 
@@ -34,4 +36,10 @@ This question had been on my mind a lot because of the time of year. The 11th of
 I was fortunate to work with Sophie's mother, Sylvia, at various points over the last 15 years as she campaigned tirelessly to stop the same thing happening to other people. [Sylvia Lancaster](https://www.sophielancasterfoundation.com/dr-sylvia-lancaster-obe-love-and-light/ "Link to Sylvia Lancaster obituary") sadly passed away earlier this year, and will be sadly missed. If you ever get to hear [_Black Roses_](https://www.sophielancasterfoundation.com/black-roses/ "Link to details about Black Roses") the poetic docu-drama by Simon Armitage: take that chance.
 
 So I continue to engage with the NTF twitter-verse in as authentic away as possible. I suppose, thay this is one of those tasks I could automate or delegate but again it feels important to do it myself and to keep it is as responsive as possible. I am hesitent even to cut and paste, trying to make each response unique. Trying to avoid the appearance of being a _bot_.
+
+When replying to one _"collector's"_ post I noticed that he had 797 replies already, what hope would mine have of being seen? [As I compopsed reply number 798 to this thread](https://twitter.com/1924_me/status/1558387089158426624?s=21&t=tM0jMd0gLU4gLCdHW80zoQ "Link to tweet reply 798"), I located image [798/1924 (_Position 16, Colour Scheme 18_)](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/64162533542198579898252916190583583845604629893829087458582976418693622267905 "Link to Image 798/1924 on Opensea") in the hope that the subtle quirk of attempting to match the number of the reply with titular name of the attached image might pique some form of intellectual interest in the audience. 
+
+![798/1924 (Position 16, Colour Scheme 18)]({{site.baseurl}}/img/S5P16HG2.png)
+
+
 
