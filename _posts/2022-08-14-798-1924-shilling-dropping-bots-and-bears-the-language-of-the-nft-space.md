@@ -15,7 +15,10 @@ My son (19), apparently the fountain of all knowledge, tells me that I should ha
 
 And so my mind returns to the language of the space I recently come to inhabit. My twitter feed is full of, repeated, calls to _"shill"_ or _"drop"_ your nfts for sale. The implication being that semi-immediate purchase or promotion will follow...and there follows hundreds of posts of images from creators hungry for a sale. Aren't we all. I feel uneasy responding to the calls to _"shill"_ as the word seems disingenous as a term of art, I feel that it has a sense of dishonesty within its regular meaning. A quick reference to the dictionary confirms my thinking. As a noun the word (according to the Oxford Languages Dictionary that powers Google definitions) means: _"an accomplice of a confidence trickster or swindler who poses as a genuine customer to entice or encourage others"_ and the corresponding verb means to _"act or work as a shill"_. I can not help but wonder how the adoption of a phrase that implies dishonesty has affected the development of attitudes within the space. Is it simply assumed that noone is what or who they seem? Where does that leave a project which is intrinsically tied to my identity and personhood albeit under the sobriquet of The Artist Embodied?
 
-My response is to share details of the project on these posts with commentary about the issues we hope to raise, and a selected Piece of Me for their consideration. I wonder if I would have more success if I just posted the image without commentary, but it feels important to be as real and genuine as possible.
+My response is to share details of the project on these posts with commentary about the issues we hope to raise, and a selected Piece of Me for their consideration. I wonder if I would have more success if I just posted the image without commentary, but it feels important to be as real and genuine as possible. Also, the discussion is part of the art? Part of the point? 
+
+![Image of a tweet in response to a shill request (1)]({{site.baseurl}}/img/Shill Tweet 1.jpg)
+
 
 
 
