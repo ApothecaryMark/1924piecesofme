@@ -55,7 +55,7 @@ As I gaze at the image of what appears to be a lime green walnut: I see a grimac
 
 Continuing my experimental (perhaps, in more ways than one: I am the guinea pig I see?) exploration of the NFT space, the other thing I have become heavily aware of is _bots_. As soon as I started to tweet about NFTs, I immediately experienced bot interactions, some more ovious than others. Some accounts seem to automatically reply to your tweet to suggest you promote your project on one service or another. Some accounts will send you a direct message saying that that they are so grateful for the follow, _but_ have you seen their friend's amazing site which will promote your project if ... The list goes on with any number of variations. There are some obvious phishing scams. 
 
-I wonder how many of the innumerable _collectors_ asking _creators_ to _shill_ or _drop_ our NFTs are automated scripts posting and gathering information automatically. I posed this question in another [largely ignored reply to a shill request](https://twitter.com/1924_me/status/1558711547362426881?s=21&t=tM0jMd0gLU4gLCdHW80zoQ "Link to tweet about the number of bots"):
+I wonder how many of the innumerable _collectors_ asking _creators_ to _shill_ or _drop_ our NFTs are automated scripts posting and gathering information for whatever reason. I posed this question in another [largely ignored reply to a shill request](https://twitter.com/1924_me/status/1558711547362426881?s=21&t=tM0jMd0gLU4gLCdHW80zoQ "Link to tweet about the number of bots"):
 
 _Is the #NFT world full of #bots? I know there are humans too: I heard them on podcasts & spaces._
 
