@@ -68,7 +68,7 @@ I asked him:
 
 _@elonmusk did you ever come up with an estimate of the number Twitter #bots ? There’s amazing bot art. They have a place. BUT when trying to bring #disability, #mentalhealth and #vulnerability to the #NFT space the world is full of bots that fabricate promotion and stifle debate._
 
-I don't know where the line is between useful/legitmate automation and malignancy but it feels like the NFT space (and other parts of the Twitter-verse) might be walking that fine line - or may well have already crossed it? It certainly feels like they are fabricating the possibility of promoting artwork and art work, and crowding the space so much as to stifle genuine interaction. 
+I don't know where the line is between useful/legitimate automation and malignancy but it feels like the NFT space (and other parts of the Twitter-verse) might be walking that fine line - or may well have already crossed it? It certainly feels like they are fabricating the possibility of promoting artwork and art work, and crowding the space so much as to stifle genuine interaction. 
 
 I doubt he'll reply, but we can add that to the list of things that I hope to disprove with this project. I suppose it is a little bit eccentric of me to expect the richest man in the world to take an interest in my questions. Perhaps, I can say the rabbit made me do it, or was it the guinea pig, or the kissing slug-like aliens? Either way, he can rest assured that the message came from a human, not a bot.
 
